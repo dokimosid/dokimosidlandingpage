@@ -4,7 +4,7 @@ const footerLinks = [
   { label: 'About', href: '/about' },
   { label: 'Privacy Policy', href: '/privacy' },
   { label: 'Terms of Service', href: '/terms' },
-  { label: 'Contact', href: 'mailto:hello@dokimosid.com' },
+  { label: 'Contact', href: 'mailto:contact@dokimosid.com' },
 ]
 
 export default function Footer() {
@@ -43,8 +43,8 @@ export default function Footer() {
           {/* Contact */}
           <div className="flex flex-col gap-3">
             <p className="font-body text-xs font-semibold tracking-widest uppercase text-paper/40">Get in Touch</p>
-            <a href="mailto:hello@dokimosid.com" className="font-body text-sm text-paper/60 hover:text-paper transition-colors">
-              hello@dokimosid.com
+            <a href="mailto:contact@dokimosid.com" className="font-body text-sm text-paper/60 hover:text-paper transition-colors">
+              contact@dokimosid.com
             </a>
             <a href="https://dokimosid.com" className="font-body text-sm text-paper/60 hover:text-paper transition-colors">
               dokimosid.com

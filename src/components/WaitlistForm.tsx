@@ -266,7 +266,7 @@ export default function WaitlistForm() {
             {status === 'error' && (
               <p className="font-body text-sm text-red-300 text-center">
                 Something went wrong. Email us directly at{' '}
-                <a href="mailto:hello@dokimosid.com" className="underline">hello@dokimosid.com</a>
+                <a href="mailto:contact@dokimosid.com" className="underline">contact@dokimosid.com</a>
               </p>
             )}
 

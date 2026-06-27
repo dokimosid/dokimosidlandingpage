@@ -7,8 +7,8 @@ const stats = [
         <circle cx="26" cy="16" r="2" fill="#F4F1EA" />
       </svg>
     ),
-    stat:  '$600B+',
-    label: 'lost annually in the U.S. to resume and credential fraud',
+    stat:  '$600B',
+    label: 'estimated annual cost of resume fraud to U.S. businesses (Crosschq, 2025)',
   },
   {
     icon: (
@@ -20,8 +20,8 @@ const stats = [
         <path d="M25 9 L23 11" stroke="#F4F1EA" strokeWidth="2" strokeLinecap="round" />
       </svg>
     ),
-    stat:  '1 in 5',
-    label: 'remote candidates misrepresents their identity during the hiring process',
+    stat:  '1 in 4',
+    label: 'candidate profiles will be fake by 2028, Gartner predicts',
   },
   {
     icon: (
